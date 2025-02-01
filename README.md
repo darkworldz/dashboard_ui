@@ -4,6 +4,9 @@ A new Flutter project.
 
 ![Demo Video](demo.gif)
 
+screen 
+![screenshot](Screenshot from 2025-02-02 03-07-09.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
