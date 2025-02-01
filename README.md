@@ -6,7 +6,11 @@ A new Flutter project.
 
 screen 
 
-Screenshot from 2025-02-02 03-07-09.png
+![image](https://github.com/user-attachments/assets/c5ae091e-c895-4345-89b6-307d52cd53f3)
+
+![image](https://github.com/user-attachments/assets/d25ff16f-63be-40b9-9cf2-6400f5b50763)
+
+
 
 ## Getting Started
 
